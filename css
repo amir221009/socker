@@ -1,0 +1,115 @@
+header {
+            text-align: center;
+            font-size: 30px;
+            background-color:beige ;
+            padding: 1px;
+            color:coral;
+        }
+h2 {
+        text-align: left ;
+        
+    
+    }
+header img {
+        width: 35px;    
+}
+footer img{
+        width: 35px;    
+}
+main img {
+        width: 85px;
+        
+        
+    }   
+hr {
+    color: darkorchid;
+    }
+main p {
+    text-align:left;
+    
+}
+h2 p {
+           text-align:center;
+           color:blue;  
+    
+}
+table {
+        border: 3px solid coral ;
+        border-collapse: collapse;
+        
+}
+td{
+        border: 3px solid coral;
+        
+}
+b {
+   text-align: center ;
+    
+    
+}
+h3 {
+    color: blue;
+}
+.bavaria {
+    color: deeppink;
+}
+.citi {
+    color: aqua;
+}
+.PSG {
+    color:darkblue;
+}
+.liver {
+    margin: 0px 137px 0px 0px;
+}
+.black {
+     background-color:black;
+     margin: 0px 137px 0px 0px;
+}
+.white {
+     margin: 0px 0px 0px 67px;
+     background-color:black;
+}
+.red {
+    color: red;
+}
+.real {
+    color: yellow;
+    
+}
+.cen {
+
+text-align: center
+}
+h2{
+    
+}
+.vs{
+    text-align: center;
+    
+}
+.o {
+    
+    margin: 35px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
